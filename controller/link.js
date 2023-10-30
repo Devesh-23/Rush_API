@@ -7,11 +7,10 @@ const getAllLinks = async (req, res) => {
     resLink.PackageIdentifier = { $regex: PackageIdentifier, $options: "i" };
   }
 
-  console.log(resLink)
   
-  const Links = await Link.findById("653e5ec2d22e5bdded9df607");
+  const Links = await Link.find(resLink);
   // console.log(Links)
-  res.status(200).json({ Links });
+  res.status(200).json({noHits:Links.length, Links });
 };
 
 module.exports = {
