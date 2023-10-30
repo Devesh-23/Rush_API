@@ -1,0 +1,798 @@
+[
+  {
+    "PackageIdentifier": "115.115",
+    "Packages": [
+      {
+        "PackageVersion": "1.0.0.45",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.0.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2021 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115_1.0.0.45_win.exe",
+            "InstallerSha256": "8CBFCB08E2400182DCA6738694A4A2DB6641A3482972D22628F877BB571EE4E0"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.1.19",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2021 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.1.19.exe",
+            "InstallerSha256": "B308CE4082237484EEC5501F1C6F151AC11D822BAD9B9DDA997A3EC9880FF5C0",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.2.9",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2021 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.2.9.exe",
+            "InstallerSha256": "96BB68EAB2ED66A0174492A53A27AB8A36B09A9906FC0C26D14D4D750D360EFF",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.3.6",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.3.6.exe",
+            "InstallerSha256": "FDD796CD418CD79288E56A66BFCE352318E3171B16CF0C85BA0D0D86713213B4",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.4.6",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.4.6.exe",
+            "InstallerSha256": "CEA5D164B8D909ABD0A5CFF25FB10B19D2400296B60937BFF663A27CF5572E1B",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.5.18",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.5.18.exe",
+            "InstallerSha256": "A03CA8131EA989CFB71F706E6E5623F3942740FF45FFA8F67D3755B43683F614",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.6.7",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.6.7.exe",
+            "InstallerSha256": "53D695645EDF2BCDFF32AFDF36AE1B4B1B39056EC0576EA71879D4188FFC0997",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.7.7",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.7.7.exe",
+            "InstallerSha256": "29004060F45E4DAB5A5BE26F5620A612891EE27B3A4A0862E97C712BDDDBA3D4",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.8.9",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_1.0.8.9.exe",
+            "InstallerSha256": "16154183331FCEFCDA4172E28D3A8B996EDAED6CD223E5D19E2F4BF8EB409850",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "2.0.0.19",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_2.0.0.19.exe",
+            "InstallerSha256": "54F8302397309A877CAEE8933E43A7051AA2A935B7D7E6ECB65FCC50C4807DA9",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "2.0.1.7",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_2.0.1.7.exe",
+            "InstallerSha256": "DAB12BBA7A0955356D2B1403E3E76E8628401F864F8BFD3D6C76D486D8A69A0C",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "2.0.2.9",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2022 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_2.0.2.9.exe",
+            "InstallerSha256": "2AFA93A0D2FF6F7611918318AE8297A5A5D31D09966952FEED25FD0A25ADDAF5",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "2.0.3.6",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "@2023 115科技 版权所有",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_2.0.3.6.exe",
+            "InstallerSha256": "ED328E270D0232963DE326ADC2E02FDAD87FBFAE9A243A23C405D88261AB7B6B",
+            "ProductCode": "115"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "2.0.5.5",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/agreement.html",
+        "Copyright": "Copyright @2023 115 Technology",
+        "ShortDescription": "A brand new 115 PC client",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/115pc/win/115pc_2.0.5.5.exe",
+            "InstallerSha256": "CCF04C05236B42858A7C965C81C12F85B3CD293EC3D6BAFF50A5630DC13DA7C2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PackageIdentifier": "115.115Chrome",
+    "Packages": [
+      {
+        "PackageVersion": "24.3.0.3",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.0.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2021 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115pc_24.3.0.3.exe",
+            "InstallerSha256": "07BEDDBC650EEE90F48891A973721234450C8D4C706A0EE85BEFCE00802B9EC8"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "24.4.0.2",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.0.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2021 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115pc_24.4.0.2.exe",
+            "InstallerSha256": "B52735480171551F9C16D74B2F83D42DD8EC6E5ADB4F8CBBC65F5A9ACBA9C35D"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "24.5.0.1",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.0.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115电脑版",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2021 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115pc_24.5.0.1.exe",
+            "InstallerSha256": "B4410D4B561D9C6EF9406A68361EAE111727B405CBF12DF87E8D6D1187A08FA0"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "25.0.0.3",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.0.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115浏览器",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2021 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115pc_25.0.0.3.exe",
+            "InstallerSha256": "D34AC182767968715D9A86A4DD831DE2044CD28145D8BA6D8AD75A58460E6519"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "25.0.1.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.1.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115浏览器",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2021 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115br_25.0.1.0.exe",
+            "InstallerSha256": "6BDE611D44BE50286FAE39D9EBA52BAE15616A57A7D7B5DEAA1932DD7DACE0CD",
+            "ProductCode": "115Chrome"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "25.0.2.1",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115浏览器",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2021 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115br_25.0.2.1.exe",
+            "InstallerSha256": "2A4CE8D32F383C863CD1C59F184EAAC5125D6A7914879E27E314C32A8FCC720D",
+            "ProductCode": "115Chrome"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "25.0.4.1",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115浏览器",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2022 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115br_25.0.4.1.exe",
+            "InstallerSha256": "DF818E702D1A76B8DC1A8FBD502EF66AAAA4258016412F0A79E06C9F8E4AD8F3",
+            "ProductCode": "115Chrome"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "25.0.5.4",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115浏览器",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2023 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115br_25.0.5.4.exe",
+            "InstallerSha256": "C4C3B29D952DAADBFA1EE13B065C6FC09490967106F17F93B5ED665078BDD547",
+            "ProductCode": "115Chrome"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "25.0.6.5",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "广东一一五科技股份有限公司",
+        "PackageName": "115浏览器",
+        "License": "Proprietary",
+        "LicenseUrl": "https://115.com/pc_agreement.html",
+        "Copyright": "Copyright 2023 The 115Browser Authors. All rights reserved.",
+        "ShortDescription": "A PC client that integrates 115, 115 Organization and browser",
+        "Installers": [
+          {
+            "Architecture": "x86",
+            "InstallerUrl": "https://down.115.com/client/win/115br_25.0.6.5.exe",
+            "InstallerSha256": "CBBF7CEA1D92B0C1DADCF3B5CED60691CE22B6FC12DE366721E6C120B97A1255"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PackageIdentifier": "123.123pan",
+    "Packages": [
+      {
+        "PackageVersion": "1.0.110.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://statics.123pan.com/pc-installer/123pan/110/123pan_1.0.110.exe",
+            "InstallerSha256": "9DFE5F7AC87CE3F45DCED42E659E0C6C97EB14A55F36DEFAEB36596CD9439CD2",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.0.111.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://statics.123pan.com/pc-installer/123pan/111/123pan_1.0.111.exe",
+            "InstallerSha256": "76721DBC0462CC8F2AAE9929D08E40DFE2BBDA1FE61FB01719941A575DD42145",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.1.0.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://statics.123pan.com/pc-installer/123pan/112/123pan_1.1.0.exe",
+            "InstallerSha256": "C03D977D59BBFE5DA8E29055DB77C87032B01AAB37E753A078C0CB827B27DA04",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.1.1.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://app.123pan.com/app/pc/windows/113/123pan_1.1.1.exe",
+            "InstallerSha256": "ED5EEADBA97E113BA8C868E426E344175F427F7C24C316B60089BB7EE0DB2667",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.2.0.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.5.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://app.123pan.com/app/pc/windows/114/123pan_1.2.0.exe",
+            "InstallerSha256": "B22816A89CC6F0BF87ABA7B739698F19930CAFB90F4F54B4E022F72C85C5F5EB",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.2.1.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.5.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://app.123pan.com/app/pc/windows/115/123pan_1.2.1.exe",
+            "InstallerSha256": "18963FD62748F371C572C2FCE86F8E3B6E97E6211B26236B5E71FC5286795C49",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.3.0.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.5.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://app.123pan.com/app/pc/windows/116/123pan_1.3.0.exe",
+            "InstallerSha256": "CF1EB90DD8ABD2A7D03C4D5E96B21D803F2B1D636B2BB81F5DF9FA09BC2A213E",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.3.1.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.5.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://app.123pan.com/app/pc/windows/117/123pan_1.3.1.exe",
+            "InstallerSha256": "6DCBA896FA834C9A65CEA3F8967541747F65389B7577017A34957A91DFFF829E",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.3.2.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.5.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://app.123pan.com/app/pc/windows/118/123pan_1.3.2.exe",
+            "InstallerSha256": "3AEBB033DF7489FC4B0D446350F3C108D5244E02E7907E794B942FEF60858665",
+            "ProductCode": "123pan"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "1.3.3.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.5.0",
+        "PackageLocale": "en-US",
+        "Publisher": "123云盘",
+        "PackageName": "123云盘",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.123pan.com/UserAgreement",
+        "Copyright": "Copyright (c) 2023 123pan",
+        "ShortDescription": "Secure and trusted cloud storage content distribution platform",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://app.123pan.com/app/pc/windows/119/123pan_1.3.3.exe",
+            "InstallerSha256": "80FF7A6677BE96701A3B40E9956199C3EEC0E027F784F6263F53FC75B7773CA5",
+            "ProductCode": "123pan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PackageIdentifier": "1IC.BPMN-RPAStudio",
+    "Packages": [
+      {
+        "PackageVersion": "21.8.10",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1IC B.V.",
+        "PackageName": "BPMN-RPA Studio",
+        "License": "Freeware",
+        "LicenseUrl": null,
+        "Copyright": "© 1IC B.V. 2021",
+        "ShortDescription": "Visual Python flow programming with BPMN-RPA Studio.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://1ic.nl/BPMN_RPA/BPMN_RPA_Studio_21.8.10_x64.exe",
+            "InstallerSha256": "EF8452EC7D2C03212587B946FF1AAEA0689C7B5D5C4A1B7D4DFD7C0FDB59FC49"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "21.8.11",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1IC B.V.",
+        "PackageName": "BPMN-RPA Studio",
+        "License": "Freeware",
+        "LicenseUrl": null,
+        "Copyright": "© 1IC B.V. 2021",
+        "ShortDescription": "Visual Python flow programming with BPMN-RPA Studio.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://1ic.nl/BPMN_RPA/BPMN_RPA_Studio_21.8.11_x64.exe",
+            "InstallerSha256": "E0579EE206483437ECFBCB225B7E4826B59A06AF956803529F9294D3FE0FAEE6"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "21.8.4",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1IC B.V.",
+        "PackageName": "BPMN-RPA Studio",
+        "License": "Freeware",
+        "LicenseUrl": null,
+        "Copyright": "© 1IC B.V. 2021",
+        "ShortDescription": "Visual Python flow programming with BPMN-RPA Studio.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://1ic.nl/BPMN_RPA/BPMN_RPA_studio.exe",
+            "InstallerSha256": "9970948E42CC0757119A432336FD1847F63D2B817DBFFB247B4503CA7682F563",
+            "ProductCode": "{A89231CE-B60C-4473-AABE-0F890A07D2F7}_is1"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "21.8.6",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1IC B.V.",
+        "PackageName": "BPMN-RPA Studio",
+        "License": "Freeware",
+        "LicenseUrl": null,
+        "Copyright": "© 1IC B.V. 2021",
+        "ShortDescription": "Visual Python flow programming with BPMN-RPA Studio.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://1ic.nl/BPMN_RPA/BPMN_RPA_Studio_21.8.6_x64.exe",
+            "InstallerSha256": "18851E10EA5CEF72D7B8A5594236B268752EF9BF1FD9FB4DC42F199951FF04EF"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "21.8.7",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1IC B.V.",
+        "PackageName": "BPMN-RPA Studio",
+        "License": "Freeware",
+        "LicenseUrl": null,
+        "Copyright": "© 1IC B.V. 2021",
+        "ShortDescription": "Visual Python flow programming with BPMN-RPA Studio.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerUrl": "https://1ic.nl/BPMN_RPA/BPMN_RPA_Studio_21.8.7_x64.exe",
+            "InstallerSha256": "1A1B4CFCDC1238D76A73D7850CAAD9B4791C80C0F4821EA9D46AA6E3931B2FCF"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "26.0.0",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.2.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1IC B.V.",
+        "PackageName": "BPMN-RPA Studio",
+        "License": "Freeware",
+        "LicenseUrl": "https://www.1ic.nl/bpmn-rpa-license.html",
+        "Copyright": "© 1IC B.V. 2021",
+        "ShortDescription": "Visual Python flow programming with BPMN-RPA Studio.",
+        "Installers": [
+          {
+            "InstallerLocale": "en-US",
+            "Architecture": "x64",
+            "InstallerType": "msi",
+            "InstallerUrl": "https://1ic.nl/BPMN_RPA/BPMN_RPA_studio.msi",
+            "InstallerSha256": "C4930D914277CEB2DAE5767631E55748CA9B1BE25BC0EF6B6D85E13438AD6F10",
+            "InstallerSwitches": {
+              "Silent": "/quiet",
+              "SilentWithProgress": "/passive"
+            },
+            "ProductCode": "{844BFD24-2A34-43F2-86F7-8780BFEB2D81}",
+            "UpgradeBehavior": "install"
+          }
+        ]
+      }
+    ]
+  }
+]
