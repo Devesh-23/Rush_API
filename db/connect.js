@@ -1,5 +1,7 @@
 const mongoose = require('mongoose')
-//mongoose.set('useFindAndModify', false);
+
+
+//c//onst AllTaskCollection = mongoose.model("Task", ObsyTaskSchema);
 
 const connectDB = (url) => {
   // console.log(url)

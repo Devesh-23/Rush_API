@@ -1,6 +1,6 @@
 [
   {
-    "PackageIdentifier": "115.115",
+    "PackageIdentifier": "abcd",
     "Packages": [
       {
         "PackageVersion": "1.0.0.45",
@@ -283,7 +283,7 @@
     ]
   },
   {
-    "PackageIdentifier": "115.115Chrome",
+    "PackageIdentifier": "BCED",
     "Packages": [
       {
         "PackageVersion": "24.3.0.3",
@@ -463,7 +463,7 @@
     ]
   },
   {
-    "PackageIdentifier": "123.123pan",
+    "PackageIdentifier": "CDEF",
     "Packages": [
       {
         "PackageVersion": "1.0.110.0",
@@ -668,7 +668,7 @@
     ]
   },
   {
-    "PackageIdentifier": "1IC.BPMN-RPAStudio",
+    "PackageIdentifier": "DEFG",
     "Packages": [
       {
         "PackageVersion": "21.8.10",
@@ -790,6 +790,214 @@
             },
             "ProductCode": "{844BFD24-2A34-43F2-86F7-8780BFEB2D81}",
             "UpgradeBehavior": "install"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PackageIdentifier": "EFGH",
+    "Packages": [
+      {
+        "PackageVersion": "0.3.1",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1History",
+        "PackageName": "1History",
+        "License": "GPL-3.0",
+        "LicenseUrl": "https://github.com/1History/1History/blob/master/LICENSE",
+        "Copyright": "Copyright (c) 2022 Jiacai Liu <jiacai2050+1history@gmail.com>",
+        "ShortDescription": "All your history in one file.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "NestedInstallerType": "portable",
+            "NestedInstallerFiles": [
+              {
+                "RelativeFilePath": "onehistory.exe",
+                "PortableCommandAlias": "onehistory"
+              }
+            ],
+            "InstallerUrl": "https://github.com/1History/1History/releases/download/v0.3.1/1History_v0.3.1_x86_64-pc-windows-gnu.zip",
+            "InstallerSha256": "FDCBEF1F6CAF873DEC2FF254CA424EAF9F41904F06A115590A5E4A7CADBF6F3F"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "0.3.2",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1History",
+        "PackageName": "1History",
+        "License": "GPL-3.0",
+        "LicenseUrl": "https://github.com/1History/1History/blob/master/LICENSE",
+        "Copyright": "Copyright (c) 2023 Jiacai Liu <jiacai2050+1history@gmail.com>",
+        "ShortDescription": "All your history in one file.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "NestedInstallerType": "portable",
+            "NestedInstallerFiles": [
+              {
+                "RelativeFilePath": "onehistory.exe",
+                "PortableCommandAlias": "onehistory"
+              }
+            ],
+            "InstallerUrl": "https://github.com/1History/1History/releases/download/v0.3.2/1History_v0.3.2_x86_64-pc-windows-gnu.zip",
+            "InstallerSha256": "456612A75BC567F85ADCE5E6A731A5DB8E0FF239E5941017262CC221ADEAF35A"
+          }
+        ]
+      },
+      {
+        "PackageVersion": "0.3.3",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "1History",
+        "PackageName": "1History",
+        "License": "GPL-3.0",
+        "LicenseUrl": "https://github.com/1History/1History/blob/master/LICENSE",
+        "Copyright": "Copyright (c) 2023 Jiacai Liu <jiacai2050+1history@gmail.com>",
+        "ShortDescription": "All your history in one file.",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "NestedInstallerType": "portable",
+            "NestedInstallerFiles": [
+              {
+                "RelativeFilePath": "onehistory.exe",
+                "PortableCommandAlias": "onehistory"
+              }
+            ],
+            "InstallerUrl": "https://github.com/1History/1History/releases/download/v0.3.3/1History_v0.3.3_x86_64-pc-windows-gnu.zip",
+            "InstallerSha256": "C1950E6ED6639F68A6E7E629D3849CEAD649BC22A49866DB1FBA78974157EB97"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PackageIdentifier": "GFDA",
+    "Packages": [
+      {
+        "PackageVersion": "114.0.5735.134",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "The 0xGingi-Browser Authors",
+        "PackageName": "0xGingi-Browser",
+        "License": "BSD-3-Clause license",
+        "LicenseUrl": "https://github.com/0xGingi/0xgingi-browser/blob/main/LICENSE",
+        "Copyright": "Copyright 2023 The 0xGingi-Browser Authors. All rights reserved.",
+        "ShortDescription": "An ungoogled-chromium browser",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerType": "exe",
+            "InstallerUrl": "https://github.com/0xGingi/0xgingi-browser/releases/download/114.0.5735.134-1/0xgingi-browser_114.0.5735.134-1.1_installer.exe",
+            "InstallerSha256": "EB2E0E7E1A4F9BF69D6EAA07216AA69AFCD9705609C678B9FA98B6A677DDFA10",
+            "InstallerSwitches": {
+              "Silent": "/SILENT",
+              "SilentWithProgress": "/SILENT"
+            }
+          }
+        ]
+      },
+      {
+        "PackageVersion": "114.0.5735.134.2",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "The 0xGingi-Browser Authors",
+        "PackageName": "0xGingi-Browser",
+        "License": "BSD-3-Clause license",
+        "LicenseUrl": "https://github.com/0xGingi/0xgingi-browser/blob/main/LICENSE",
+        "Copyright": "Copyright 2023 The 0xGingi-Browser Authors. All rights reserved.",
+        "ShortDescription": "An ungoogled-chromium browser",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerType": "exe",
+            "InstallerUrl": "https://github.com/0xGingi/0xgingi-browser/releases/download/114.0.5735.134.2/0xgingi-browser_114.0.5735.134-1.2_installer.exe",
+            "InstallerSha256": "4407E9E809AE5D11FAAEF70DF5D155111C2E96103417DCCDC68B7E9EFE6F9DB2",
+            "InstallerSwitches": {
+              "Silent": "/SILENT",
+              "SilentWithProgress": "/SILENT"
+            }
+          }
+        ]
+      },
+      {
+        "PackageVersion": "114.0.5735.199",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "The 0xGingi-Browser Authors",
+        "PackageName": "0xGingi-Browser",
+        "License": "BSD-3-Clause license",
+        "LicenseUrl": "https://github.com/0xGingi/0xgingi-browser/blob/main/LICENSE",
+        "Copyright": "Copyright 2023 The 0xGingi-Browser Authors. All rights reserved.",
+        "ShortDescription": "An ungoogled-chromium browser",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerType": "exe",
+            "InstallerUrl": "https://github.com/0xGingi/0xgingi-browser/releases/download/114.0.5735.199-1.1/0xgingi-browser_114.0.5735.199-1.1_installer.exe",
+            "InstallerSha256": "C3A68E64D0C334D7D880F4B98319191EE4EFD9A8CD3EB1E1C5028EE1D37F94C8",
+            "InstallerSwitches": {
+              "Silent": "/SILENT",
+              "SilentWithProgress": "/SILENT"
+            }
+          }
+        ]
+      },
+      {
+        "PackageVersion": "115.0.5790.102",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "The 0xGingi-Browser Authors",
+        "PackageName": "0xGingi-Browser",
+        "License": "BSD-3-Clause license",
+        "LicenseUrl": "https://github.com/0xGingi/0xgingi-browser/blob/main/LICENSE",
+        "Copyright": "Copyright 2023 The 0xGingi-Browser Authors. All rights reserved.",
+        "ShortDescription": "An ungoogled-chromium browser",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerType": "exe",
+            "InstallerUrl": "https://github.com/0xGingi/0xgingi-browser/releases/download/115.0.5790.102-1/0xgingi-browser_115.0.5790.102-1.1_installer.exe",
+            "InstallerSha256": "A5BAFC03612261B867DBF5A239EFC234413D556CCE1C4CAD3E08386D4D02E655",
+            "InstallerSwitches": {
+              "Silent": "/SILENT",
+              "SilentWithProgress": "/SILENT"
+            }
+          }
+        ]
+      },
+      {
+        "PackageVersion": "115.0.5790.110",
+        "ManifestType": "defaultLocale",
+        "ManifestVersion": "1.4.0",
+        "PackageLocale": "en-US",
+        "Publisher": "The 0xGingi-Browser Authors",
+        "PackageName": "0xGingi-Browser",
+        "License": "BSD-3-Clause license",
+        "LicenseUrl": "https://github.com/0xGingi/0xgingi-browser/blob/main/LICENSE",
+        "Copyright": "Copyright 2023 The 0xGingi-Browser Authors. All rights reserved.",
+        "ShortDescription": "An ungoogled-chromium browser",
+        "Installers": [
+          {
+            "Architecture": "x64",
+            "InstallerType": "exe",
+            "InstallerUrl": "https://github.com/0xGingi/0xgingi-browser/releases/download/115.0.5790.110/0xgingi-browser_115.0.5790.110-1.1_installer.exe",
+            "InstallerSha256": "7836FB93F512181A57CDBCFEE77B505B951267905E86C8EC36D3D8DA84919B03",
+            "InstallerSwitches": {
+              "Silent": "/SILENT",
+              "SilentWithProgress": "/SILENT"
+            }
           }
         ]
       }

@@ -27,6 +27,6 @@ const dataSchema = new Schema({
   Packages: [packageSchema],
 });
 
-const DataModel = mongoose.model('Data', dataSchema);
+const DataModel = mongoose.model('Data', dataSchema,'winget_package_list');
 
 module.exports = DataModel;
