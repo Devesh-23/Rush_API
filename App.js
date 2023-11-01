@@ -7,7 +7,7 @@ const LinkRouter = require('./routes/link')
 
 //routes
 app.get('/', (req, res) =>{
-    res.json("suraj ka project")
+    res.send("suraj ka project")
 })
 
 app.use('/api/v1/links', LinkRouter)
