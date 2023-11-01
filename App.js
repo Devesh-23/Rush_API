@@ -5,12 +5,22 @@ const app = express()
 const connectDB = require('./db/connect')
 const LinkRouter = require('./routes/link')
 
+
+//middleware
+const notFoundMiddleware = require('./middleware/not-found')
+const errorHandlerMiddleware = require('./middleware/error-handler')
+
+
+
 //routes
 app.get('/', (req, res) =>{
     res.send("suraj ka project")
 })
 
 app.use('/api/v1/links', LinkRouter)
+
+app.use(notFoundMiddleware);
+app.use(errorHandlerMiddleware);
 
 const port = 3000;
 
