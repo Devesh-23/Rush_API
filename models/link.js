@@ -27,14 +27,8 @@ const dataSchema = new Schema({
   Packages: [packageSchema],
 });
 
-<<<<<<< HEAD
-const emptySchema = new Schema({})
-
-const DataModel = mongoose.model('Data', emptySchema,'winget_package_list');
-=======
 const emptyScheme = new Schema({})
 
 const DataModel = mongoose.model('Data', emptyScheme,'winget_package_list');
->>>>>>> 522edbf719e7f25107341e7785d3959692e65d6c
 
 module.exports = DataModel;
