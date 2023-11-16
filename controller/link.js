@@ -1,25 +1,34 @@
-const Link = require("../models/link");
+const {DataModel,DataModelFull} = require("../models/link");
 
 const getAllLinks = async (req, res) => {
-  console.log("reahce here")
+  console.log("reahce here");
   const { PackageIdentifier } = req.query;
   // const resLink = {};
   // if (PackageIdentifier) {
   //   resLink.PackageIdentifier = { $regex: PackageIdentifier, $options: "i" };
   // }
+  const qu = req.query.searchquery;
 
-  console.log(PackageIdentifier)
-  const Links =await Link.find({ $text : { $search : "firefox" }})
+  console.log(qu);
 
+  const Links = await DataModel.find({ $text: { $search: qu } });
 
-  //const Links = await Link.findById("653e5ec2d22e5bdded9df60a");
+  res.status(200).json({ noHits: Links.length, Links });
+};
+const getAppById = async (req,res) => {
+
+  const appName = req.params.appName;
+  const app = await DataModelFull.find({PackageIdentifier:appName})
+  console.log(appName)
 
   
-  //const Links = await Link.find(resLink);
-  // console.log(Links)
-  res.status(200).json({noHits:Links.length, Links });
-};
+  
 
+  res.status(200).json({app})
+
+}
 module.exports = {
   getAllLinks,
+  getAppById
 };
+

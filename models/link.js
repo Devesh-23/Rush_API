@@ -25,10 +25,19 @@ const packageSchema = new Schema({
 const dataSchema = new Schema({
   PackageIdentifier: String,
   Packages: [packageSchema],
+  RestId : String
 });
 
 const emptyScheme = new Schema({})
 
-const DataModel = mongoose.model('Data', emptyScheme,'winget_package_list');
+const DataModel = mongoose.model('Data', emptyScheme,'winget_list');
+const DataModelFull = mongoose.model('DataFull',dataSchema,'winget_list_full');
 
-module.exports = DataModel;
+module.exports = 
+
+module.exports ={
+
+  DataModel,
+  DataModelFull
+
+}  
